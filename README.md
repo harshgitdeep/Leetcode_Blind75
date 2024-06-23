@@ -11,11 +11,10 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 ### Array
 
 1. [Two Sum](./1.%20Two%20Sum.md)
-
+2. [Best Time to Buy and Sell Stock](./2.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 <!--### Array
 
-- [Two Sum](./Two%20Sum.java)
-- [Best Time to Buy and Sell Stock](./Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)
+
 - [Contains Duplicate](./Contains%20Duplicate.java)
 - [Product of Array Except Self](./Product%20of%20Array%20Except%20Self.java)
 - [Maximum Subarray](./Maximum%20Subarray.java)
