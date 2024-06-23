@@ -1,4 +1,4 @@
-# Blind 75 LeetCode 
+# Blind 75 LeetCode (JAVA)
 Welcome to my repository where I solve the [Blind 75 LeetCode questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions). This list is a curated selection of the most important and frequently asked LeetCode problems that help in mastering coding interviews.
 
 ## About
