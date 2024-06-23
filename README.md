@@ -1,10 +1,11 @@
+# Blind 75 LeetCode 
 
 
 
+<img src="https://i.redd.it/socobepi0iy71.jpg" alt="10_coding_dribbble" height="300">
 
 
 
-# Blind 75 LeetCode Questions
 
 
 Welcome to my repository where I solve the [Blind 75 LeetCode questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions). This list is a curated selection of the most important and frequently asked LeetCode problems that help in mastering coding interviews.
