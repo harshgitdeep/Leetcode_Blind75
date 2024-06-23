@@ -1,21 +1,11 @@
 # Blind 75 LeetCode 
-
-<img src="https://github.com/harshgitdeep/Leetcode_Blind75/assets/88957566/2e78ab2b-4f26-4693-ac81-6a11186ae17d" alt="10_coding_dribbble" height="300">
-
-
-
-
-
-
-
-
 Welcome to my repository where I solve the [Blind 75 LeetCode questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions). This list is a curated selection of the most important and frequently asked LeetCode problems that help in mastering coding interviews.
 
 ## About
 
-This repository contains my solutions to the Blind 75 LeetCode questions in Java. These solutions are written in a clear and concise manner to help others understand and learn from them.
+This repository contains my solutions to the Blind 75 LeetCode questions in Java. These solutions are written clearly and concisely to help others understand and learn from them.
 
-### You can check out my progress and other solutions on my [LeetCode profile](https://leetcode.com/harshgitdeep).
+### You can checkout my progress and other solutions on my [LeetCode profile](https://leetcode.com/harshgitdeep).
 
 ## Questions List
 ### Array
