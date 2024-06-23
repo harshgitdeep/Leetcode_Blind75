@@ -1,8 +1,9 @@
 # Blind 75 LeetCode 
 
+<img src="https://github.com/harshgitdeep/Leetcode_Blind75/assets/88957566/2e78ab2b-4f26-4693-ac81-6a11186ae17d" alt="10_coding_dribbble" height="300">
 
 
-<img src="https://i.redd.it/socobepi0iy71.jpg" alt="10_coding_dribbble" height="300">
+
 
 
 
@@ -138,6 +139,8 @@ You can navigate to the respective Java files to find the solutions for each que
 - Explanatory comments and approach
 
 ## Contributing
+
+<img src="https://i.redd.it/socobepi0iy71.jpg" alt="10_coding_dribbble" height="300">
 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Let's learn and grow together!
 
