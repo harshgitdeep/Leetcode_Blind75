@@ -16,8 +16,11 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 ### You can check out my progress and other solutions on my [LeetCode profile](https://leetcode.com/harshgitdeep).
 
 ## Questions List
-<!-- -->
 ### Array
+
+1. [Two Sum](./Two%20Sum.java)
+
+<!--### Array
 
 - [Two Sum](./Two%20Sum.java)
 - [Best Time to Buy and Sell Stock](./Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)
@@ -30,7 +33,7 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 - [3 Sum](./3%20Sum.java)
 - [Container With Most Water](./Container%20With%20Most%20Water.java)
 
-<!-- ### Binary
+ ### Binary
 
 - [Sum of Two Integers](./Sum%20of%20Two%20Integers.java)
 - [Number of 1 Bits](./Number%20of%201%20Bits.java)
