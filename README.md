@@ -1,7 +1,8 @@
 # Blind 75 LeetCode Questions
 
 
-<img src="https://github.com/harshgitdeep/Leetcode_Blind75/assets/88957566/9cbb7119-7966-4c1e-97e6-65ebbb18e666" alt="10_coding_dribbble" height="200">
+
+<img src="https://github.com/harshgitdeep/Leetcode_Blind75/assets/88957566/8934f9a6-f75b-4aea-8e04-db0eeaf90c26" alt="10_coding_dribbble" width="100%">
 
 Welcome to my repository where I solve the [Blind 75 LeetCode questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions). This list is a curated selection of the most important and frequently asked LeetCode problems that help in mastering coding interviews.
 
