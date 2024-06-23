@@ -20,7 +20,7 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 ## Questions List
 ### Array
 
-1. [Two Sum](./Two%20Sum.java)
+1. [Two Sum](./1.%20Two%20Sum.md)
 
 <!--### Array
 
