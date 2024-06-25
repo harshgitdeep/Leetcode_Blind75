@@ -14,8 +14,8 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 2. [Best Time to Buy and Sell Stock](./2.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 3. [Contains Duplicate](./3.%20Contains%20Duplicate.md)
 4. [Product of Array Except Self](./4.%20Product%20of%20Array%20Except%20Self.md)
-5.  [Maximum Subarray](./5.%20/Maximum%20Subarray.md)
-6. [Maximum Product Subarray](./6.%20/Maximum%20Product%20Subarray.md)
+5. [Maximum Subarray](./5.%20Maximum%20Subarray.md)
+6. [Maximum Product Subarray](./6.%20Maximum%20Product%20Subarray.md)
 <!--### Array
 
 
