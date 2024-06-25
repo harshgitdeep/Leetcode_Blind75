@@ -14,12 +14,13 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 2. [Best Time to Buy and Sell Stock](./2.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 3. [Contains Duplicate](./3.%20Contains%20Duplicate.md)
 4. [Product of Array Except Self](./4.%20Product%20of%20Array%20Except%20Self.md)
+5.  [Maximum Subarray](./5.%20/Maximum%20Subarray.md)
+6. [Maximum Product Subarray](./6.%20/Maximum%20Product%20Subarray.md)
 <!--### Array
 
 
 
-- [Maximum Subarray](./Maximum%20Subarray.java)
-- [Maximum Product Subarray](./Maximum%20Product%20Subarray.java)
+
 - [Find Minimum in Rotated Sorted Array](./Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
 - [Search in Rotated Sorted Array](./Search%20in%20Rotated%20Sorted%20Array.java)
 - [3 Sum](./3%20Sum.java)
