@@ -16,15 +16,17 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 4. [Product of Array Except Self](./4.%20Product%20of%20Array%20Except%20Self.md)
 5. [Maximum Subarray](./5.%20Maximum%20Subarray.md)
 6. [Maximum Product Subarray](./6.%20Maximum%20Product%20Subarray.md)
+7. [Find Minimum in Rotated Sorted Array](./7.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+10. [Container With Most Water](./10.%20Container%20With%20Most%20Water.md)
 <!--### Array
 
 
 
 
-- [Find Minimum in Rotated Sorted Array](./Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
+-
 - [Search in Rotated Sorted Array](./Search%20in%20Rotated%20Sorted%20Array.java)
 - [3 Sum](./3%20Sum.java)
-- [Container With Most Water](./Container%20With%20Most%20Water.java)
+- 
 
  ### Binary
 
