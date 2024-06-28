@@ -17,6 +17,8 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 5. [Maximum Subarray](./5.%20Maximum%20Subarray.md)
 6. [Maximum Product Subarray](./6.%20Maximum%20Product%20Subarray.md)
 7. [Find Minimum in Rotated Sorted Array](./7.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+8. [Search in Rotated Sorted Array](./8.%20Search%20in%20Rotated%20Sorted%20Array.md)
+9. [3 Sum](./3.%20Sum.md)
 10. [Container With Most Water](./10.%20Container%20With%20Most%20Water.md)
 <!--### Array
 
@@ -24,8 +26,7 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 
 
 -
-- [Search in Rotated Sorted Array](./Search%20in%20Rotated%20Sorted%20Array.java)
-- [3 Sum](./3%20Sum.java)
+
 - 
 
  ### Binary
