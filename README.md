@@ -6,7 +6,7 @@ Welcome to my repository where I solve the [Blind 75 LeetCode questions](https:/
 This repository contains my solutions to the Blind 75 LeetCode questions in Java. These solutions are written clearly and concisely to help others understand and learn from them.
 
 ### You can checkout my progress and other solutions on my [LeetCode profile](https://leetcode.com/harshgitdeep).
-
+<!--
 ## Questions List
 ### Array
 
@@ -20,7 +20,7 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 8. [Search in Rotated Sorted Array](./8.%20Search%20in%20Rotated%20Sorted%20Array.md)
 9. [3 Sum](./3.%20Sum.md)
 10. [Container With Most Water](./10.%20Container%20With%20Most%20Water.md)
-<!--### Array
+### Array
 
 
 
@@ -122,7 +122,6 @@ This repository contains my solutions to the Blind 75 LeetCode questions in Java
 - [Top K Frequent Elements](./Top%20K%20Frequent%20Elements.java)
 - [Find Median from Data Stream](./Find%20Median%20from%20Data%20Stream.java) 
 
--->
 
 ## How to Use
 
@@ -131,6 +130,10 @@ You can navigate to the respective Java files to find the solutions for each que
 - The problem statement
 - My solution in Java
 - Explanatory comments and approach
+
+-->
+
+
 
 ## Contributing
 
